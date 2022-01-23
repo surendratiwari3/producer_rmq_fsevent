@@ -1,0 +1,8 @@
+github.com/caarlos0/env/v6 v6.9.1 h1:zOkkjM0F6ltnQ5eBX6IPI41UP/KDGEK7rRPwGCNos8k=
+github.com/caarlos0/env/v6 v6.9.1/go.mod h1:hvp/ryKXKipEkcuYjs9mI4bBCg+UI0Yhgm5Zu0ddvwc=
+github.com/cgrates/fsock v0.0.0-20210329152934-985234f6402d h1:GniHuJBHBdNZmeyy9SMeQUnsUKZPkSHw+GS4/zOR0mI=
+github.com/cgrates/fsock v0.0.0-20210329152934-985234f6402d/go.mod h1:Pwt9HQxAAGhZL+KujePH1S3wsETfxb6PMXf4HaT5oV4=
+github.com/fiorix/go-eventsocket v0.0.0-20180331081222-a4a0ee7bd315 h1:GBEsz9T7y00+a7w2uHdeVEqVHJ1xj6egPAWeQD3FRTw=
+github.com/fiorix/go-eventsocket v0.0.0-20180331081222-a4a0ee7bd315/go.mod h1:1h02GKxDM9bGVz8tbnYb2xcRRCz6Ae2c1tI367JP144=
+github.com/streadway/amqp v1.0.0 h1:kuuDrUJFZL1QYL9hUNuCxNObNzB0bV/ZG5jV3RWAQgo=
+github.com/streadway/amqp v1.0.0/go.mod h1:AZpEONHx3DKn8O/DFsRAY58/XVQiIPMTMB1SddzLXVw=
